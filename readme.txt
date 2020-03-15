@@ -1,0 +1,2 @@
+dictionary source: https://dikmax.name/post/russian-dictionary/ (веб-страница сохранена рядом, время 2019.01.08 19:57)
+после скачивания, russian.dic был приведён из utf-8 в ascii с помощью Notepad++ в Windows
